@@ -28,3 +28,5 @@ Create a program that will add all numbers given to a program until the number 0
 
 #### Exercise 7:
 Allow a user enter as many strings as they want to until they enter the character 'q'. Check to see if the strings are similar to a palindrome.
+<hr>
+1 point. Didn't complete Ex4-6 and the last part of Ex2 is incorrect. It should have removed the 3rd element. Not use Interger.valueOf.
